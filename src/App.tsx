@@ -1,5 +1,4 @@
-import {Button, CircularProgress, Fade, FormControl, Grid, InputLabel, makeStyles, MenuItem, Select, Slide, TextField, Typography } from '@material-ui/core';
-import { ToggleButtonGroup, ToggleButton } from '@material-ui/lab';
+import {Button, CircularProgress, Fade, FormControl, Grid, InputLabel, makeStyles, MenuItem, Select, TextField, Typography } from '@material-ui/core';
 import React, {useRef, useState } from 'react';
 import { post_request } from './serverCalls';
 import Background from "./images/background2.jpg";
